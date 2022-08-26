@@ -1,5 +1,5 @@
 # Form challenge 3 #
-[project-live](https://formchallenge-03.netlify.app)
+[project-live](https://challenge3-form.netlify.app/)
   - - - -
  # Technology used in this project #
   ![html](./images/html.svg) ![css](./images/css.svg)  
